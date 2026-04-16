@@ -30,9 +30,13 @@ Ahora mismo mi prioridad es dominar las bases. Mi stack está en construcción:
 
 ---
 
-### 📈 Actividad
-![Stats de Al Smxth](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+### 🛠️ Lo que estoy intentando dominar:
+`HTML5` • `CSS3` • `JavaScript` • `Git`
 
 ---
 
+### 🎵 My Current Mood
+> **"Escuchando el mundo, diseñando mi futuro y esperando el próximo partido."** ⚽🕊️
+
+---
 
