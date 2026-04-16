@@ -36,7 +36,7 @@ Ahora mismo mi prioridad es dominar las bases. Mi stack está en construcción:
 ---
 
 ### 🎵 My Current Mood
-> **"Escuchando el mundo, diseñando mi futuro y esperando el próximo partido."** ⚽🕊️
+> **"Escuchando el mundo, diseñando mi futuro ."** ⚽🕊️
 
 ---
 
