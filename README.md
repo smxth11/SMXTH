@@ -4,7 +4,7 @@
 Tengo **17 años** y estoy entrando al mundo de la tecnología. No sé todo todavía, pero estoy aquí para aprender, romper cosas y volverlas a arreglar. 
 
 Mis 4 pilares:
-* **⚽ Fútbol:** Disciplina y pasión en la cancha y en el teclado.
+* **⚽ Fútbol:** Disciplina y pasión .
 * **🎧 Música:** Mi motor para concentrarme y crear.
 * **🕊️ Paz:** Busco un ambiente tranquilo para aprender y crecer.
 * **🌍 Viajes:** Mi sueño es que el código me lleve a conocer el mundo.
