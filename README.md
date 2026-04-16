@@ -1,44 +1,38 @@
-# ⚡ Al Smxth | Tech & Lifestyle 🌍
+# ⚡  Smxth | Tech & Lifestyle 🌍
 
-"En la búsqueda constante de un código limpio, un buen ritmo y la paz mental."
+### 👤 Quién soy
+Tengo **17 años** y estoy entrando al mundo de la tecnología. No sé todo todavía, pero estoy aquí para aprender, romper cosas y volverlas a arreglar. 
 
----
-
-### 🚀 Sobre Mí
-Soy un desarrollador en formación que cree que la vida es como un **partido de fútbol**: se gana con estrategia, disciplina y pasión. Mi combustible es la **música** y mi brújula es la **paz**.
-
-* **⚽ Futbolero:** Entusiasta de la táctica y el juego limpio.
-* **🎧 Melómano:** Programar sin música es como un partido sin goles. 
-* **🕊️ Pacificador:** Busco que la tecnología sea un puente, no un muro.
-* **🌍 Explorador:** Con la meta de conocer cada rincón del mundo mientras escribo código.
+Mis 4 pilares:
+* **⚽ Fútbol:** Disciplina y pasión en la cancha y en el teclado.
+* **🎧 Música:** Mi motor para concentrarme y crear.
+* **🕊️ Paz:** Busco un ambiente tranquilo para aprender y crecer.
+* **🌍 Viajes:** Mi sueño es que el código me lleve a conocer el mundo.
 
 ---
 
-### 🛠️ My Coding Playlist (Tecnologías)
-*Actualmente perfeccionando las bases del desarrollo web:*
+### 🛠️ Mi Camino (Empezando...)
+Ahora mismo mi prioridad es dominar las bases. Mi stack está en construcción:
 
-- **Frontend:** HTML5 & CSS3 
-  ![Progress](https://geps.dev/progress/40)
-- **Logic:** JavaScript 
-  ![Progress](https://geps.dev/progress/25)
-- **Tools:** Git & GitHub 
-  ![Progress](https://geps.dev/progress/30)
+- **Aprendiendo:** HTML5, CSS3 y la lógica de JavaScript. 📚
+- **Meta actual:** Entender cómo funciona la web de verdad. 🌐
+- **Filosofía:** "No sé nada hoy, pero mañana sabré un poco más".
 
 ---
 
-### 🎵 Current Vibe
-| Interés | Estado |
+### 🎨 My Vibes
+| Categoría | Favorito |
 | :--- | :--- |
-| **Fútbol** | 🏟️ Esperando el próximo partido |
-| **Música** | 🎹 Descubriendo nuevos ritmos |
-| **Paz** | 🧘 En modo Zen |
-| **Viajes** | ✈️ Planeando la siguiente aventura |
+| **Hobby** | Ver fútbol y jugar un FIFA 🎮 |
+| **Playlist** | Lo-fi y Trap para codear 🎵 |
+| **Estado** | Modo aprendiz activo 💡 |
+| **Lugar ideal** | Frente a la PC con buena música 🏠 |
 
 ---
 
-### 📊 Mis Estadísticas
-![Stats de Al Smxth](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true)
+### 📈 Actividad
+![Stats de Al Smxth](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 ---
 
-> **"Menos errores, más música, goles inolvidables y mucha paz."** ✌️🔥
+
